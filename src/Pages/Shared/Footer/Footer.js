@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="text-center my-8">
-        <p>Copyright © 2022 - All right reserved by Doctors Portal</p>
+        <p>Copyright © 2022 - All right reserved</p>
       </div>
     </footer>
   );
